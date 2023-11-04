@@ -1,0 +1,4 @@
+Inner_Class.TestAnonymous
+Inner_Class.OuterofAnonymous
+Inner_Class.ParentofAnonymous
+Inner_Class.OuterofAnonymous$1

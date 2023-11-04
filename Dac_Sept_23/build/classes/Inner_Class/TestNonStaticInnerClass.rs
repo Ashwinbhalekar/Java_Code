@@ -1,0 +1,4 @@
+Inner_Class.TestNonStaticInnerClass
+null
+Inner_Class.Outer$Inner
+Inner_Class.Outer

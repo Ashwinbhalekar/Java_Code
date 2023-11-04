@@ -1,0 +1,3 @@
+Inheritance.single.Add
+Inheritance.single.Single
+Inheritance.single.TestSingleInheritance
